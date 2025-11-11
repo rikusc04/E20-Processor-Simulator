@@ -9,7 +9,7 @@
 
 using namespace std;
 
-// Some helpful constant values that we'll be using.
+// Some helpful constant values to use
 size_t const static NUM_REGS = 8;
 size_t const static MEM_SIZE = 1<<13;
 size_t const static REG_SIZE = 1<<16;
